@@ -1,11 +1,11 @@
 # LP2DPBO2024C1
 
-# JANJI
+## JANJI
 Saya Rifa Sania NIM 2206697 mengerjakan Latihan Praktikum 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek
 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin...
 
 ## Contoh Masukan
-5
+5 <br/>
 1 Kaos_Polos Nike 80000 M Katun L Putih Short_Sleeve
 2 Kaos_Kerah Adidas 120000 L Spandex P Hitam Long_Sleeve
 3 Kaos_Grafis Puma 150000 XL Polyester L Biru Short_Sleeve
